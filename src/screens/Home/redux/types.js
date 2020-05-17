@@ -1,0 +1,7 @@
+const TOGGLE_TEXT = 'TOGGLE_TEXT';
+const NAVIGATE_TO_ABOUT = 'NAVIGATE_TO_ABOUT';
+
+export default {
+    TOGGLE_TEXT,
+    NAVIGATE_TO_ABOUT
+}
